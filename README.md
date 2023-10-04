@@ -17,31 +17,28 @@ There were 6 parts to the assignment:
 6) Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard.
 
 # Additional Information:
-In this repository, you will find the Starter_Code folder that contains the index.html, samples.json dataset, and the static folder that contains my finished code in the app.js file. I cannot take full credit for this assignment as I relied heavily on the github repositories of two other people to get me started. There are many similarities but I tried my best to make the code my own. Aside from the sources cited below, everything used was retained information gathered from my classes and class activities. As always shout out to my bootcamp TAs Sam and Randy for all their help answering my questions during office hours, my instructor Hunter for always being clear in his articulation of the course material, and my classmates for their encouragement and support.
+In this repository, you will find the Starter_Code folder that contains the index.html, samples.json dataset, and the static folder that contains my finished code in the app.js file. I had a particularly difficult time getting started on this challenge. I must give credit where it is due, please note that I took inspiration from two random repositories who worked on the same challenge. Though theirs are different from mine, there are many similarities in structure/lines. I tried my best to make it my own. Aside from the sources cited below, everything used was retained information gathered from my classes and class activities. As always shout out to my bootcamp TAs Sam and Randy for all their help answering my questions during office hours, my instructor Hunter for always being clear in his articulation of the course material, and my classmates for their encouragement and support.
 
 # Troubleshooting:
 The only notable error to mention is that because I did not do the bonus/advanced portion of the challenge, I have an error on my console. The image shows what it looked like before I even made any changes to my app.js file but it pretty much looks the same. Please see image.
 ![error-no-bonus js file](https://github.com/leeangel0428/nosql-challenge/assets/137225965/aa065a23-1b57-426f-9769-43663b0555bf)
 
-# Resources and Citations:
-### Understanding Bubble Charts:
-
-https://plotly.com/javascript/bubble-charts/
-
-### Understanding layout configurations: 
-
-https://plotly.com/javascript/reference/layout/
-
-### Display each key-value pair:
-
-https://stackoverflow.com/questions/54851645/how-to-display-both-key-and-value-in-object-using-javascript
-
-### Color Scales:
-
-https://plotly.com/javascript/colorscales/
-
+# Resources and Citations (In Usage Order):
 ### Random GitHub Repos Used for Inspo:
 
 https://github.com/katyoung91/belly-button-challenge/blob/main/static/js/app.js
 
 https://github.com/DanielYoon92/belly-button-challenge/blob/main/StarterCode/static/js/app.js
+
+###Understanding Bubble Charts:
+
+Plotly. (n.d.). Bubble Charts in JavaScript. JavaScript documentation. Retrieved from: https://plotly.com/javascript/bubble-charts/
+
+###Understanding layout configuration: 
+Plotly. (n.d.). JavaScript Figure Reference: layout. JavaScript documentation. Retrieved from: https://plotly.com/javascript/reference/layout/
+
+###Display each key-value pair:
+StackOverflow user jo_va. (2019, February 24th). How to display both key and value in object using javascript? StackOverflow. Retrieved from: https://stackoverflow.com/questions/54851645/how-to-display-both-key-and-value-in-object-using-javascript
+
+###Color Scales:
+Plotly. (n.d.). Colorscales in JavaScript. JavaScript Documentation. Retrieved from: https://plotly.com/javascript/colorscales/
