@@ -24,19 +24,24 @@ The only notable error to mention is that because I did not do the bonus/advance
 ![error-no-bonus js file](https://github.com/leeangel0428/nosql-challenge/assets/137225965/aa065a23-1b57-426f-9769-43663b0555bf)
 
 # Resources and Citations:
-###Understanding Bubble Charts:
+### Understanding Bubble Charts:
+
 https://plotly.com/javascript/bubble-charts/
 
-###Understanding layout configurations: 
+### Understanding layout configurations: 
+
 https://plotly.com/javascript/reference/layout/
 
-###Display each key-value pair:
+### Display each key-value pair:
+
 https://stackoverflow.com/questions/54851645/how-to-display-both-key-and-value-in-object-using-javascript
 
-###Color Scales:
+### Color Scales:
+
 https://plotly.com/javascript/colorscales/
 
-###Random GitHub Repos Used for Inspo:
+### Random GitHub Repos Used for Inspo:
+
 https://github.com/katyoung91/belly-button-challenge/blob/main/static/js/app.js
 
 https://github.com/DanielYoon92/belly-button-challenge/blob/main/StarterCode/static/js/app.js
