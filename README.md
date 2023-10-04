@@ -30,15 +30,15 @@ https://github.com/katyoung91/belly-button-challenge/blob/main/static/js/app.js
 
 https://github.com/DanielYoon92/belly-button-challenge/blob/main/StarterCode/static/js/app.js
 
-###Understanding Bubble Charts:
+### Understanding Bubble Charts:
 
 Plotly. (n.d.). Bubble Charts in JavaScript. JavaScript documentation. Retrieved from: https://plotly.com/javascript/bubble-charts/
 
-###Understanding layout configuration: 
+### Understanding layout configuration: 
 Plotly. (n.d.). JavaScript Figure Reference: layout. JavaScript documentation. Retrieved from: https://plotly.com/javascript/reference/layout/
 
-###Display each key-value pair:
+### Display each key-value pair:
 StackOverflow user jo_va. (2019, February 24th). How to display both key and value in object using javascript? StackOverflow. Retrieved from: https://stackoverflow.com/questions/54851645/how-to-display-both-key-and-value-in-object-using-javascript
 
-###Color Scales:
+### Color Scales:
 Plotly. (n.d.). Colorscales in JavaScript. JavaScript Documentation. Retrieved from: https://plotly.com/javascript/colorscales/
