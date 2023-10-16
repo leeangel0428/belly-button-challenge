@@ -22,10 +22,25 @@ There were 6 parts to the assignment:
 In this repository, you will find the index.html file and the StarterCode folder. The StarterCode folder contains the samples.json dataset and the static folder that contains my finished code in the app.js file. I had a particularly difficult time getting started on this challenge. I must give credit where it is due, please note that I took inspiration from two random repositories who worked on the same challenge. Though theirs are different from mine, there are many similarities in structure/lines. I tried my best to make it my own. Aside from the sources cited below, everything used was retained information gathered from my classes and class activities. As always shout out to my bootcamp TAs Sam and Randy for all their help answering my questions during office hours, my instructor Hunter for always being clear in his articulation of the course material, and my classmates for their encouragement and support.
 
 # Troubleshooting:
-The only notable error to mention is that because I did not do the bonus/advanced portion of the challenge, I have an error on my console. The image shows what it looked like before I even made any changes to my app.js file but it pretty much looks the same. Please see image.
+The first notable error to mention is that because I did not do the bonus/advanced portion of the challenge, I have an error on my console. The image shows what it looked like before I even made any changes to my app.js file but it pretty much looks the same. Please see image.
 ![error-no-bonus js file](https://github.com/leeangel0428/nosql-challenge/assets/137225965/aa065a23-1b57-426f-9769-43663b0555bf)
 
 Unfortunately, I wasn't able to screengrab this but I also had an issue with getting my webpage to deploy and display properly. I looked at the console and saw an error that GitHub wasn't able to read my index.hmtl file, so I had to move it to /root aka the same directory/folder the StarterCode folder is in. I then had to fix the index.html file's src code to reflect the path changes. At this time I also removed the src code that included the bonus.js so the error in the image above, also disappeared. All errors fixed! 
+
+### Original Grade:
+![original_didnt_change](https://github.com/leeangel0428/Project-3-Group-2/assets/137225965/8f8dcb38-eead-45b9-9b09-641b3ffa557b)
+
+![original_grade](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/a5cf0c3b-a8a8-485a-8b14-302bf7495896)
+
+![original_graders_comment](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/36cf8e50-4e67-452b-b10f-521119ce7a14)
+
+I did not want to redo my entire code because I could tell I was super close, especially when referencing other repositories. I had a friend of mine who is a software engineer examine my code and he pointed out that the name of my function that udpates everything by the test subject ID (updatePlots) had a different name than the one on the HTML code (optionChanged). I unfortunately cannot find or remember the exact github repository I must have pulled that from. Please see the images of what he sent me that shows what I needed to change. 
+
+![challenge_14_mistake1](https://github.com/leeangel0428/Project-3-Group-2/assets/137225965/22a3c61a-11e0-4a6a-a706-3fb2c36bff8a)
+
+![challenge_14_mistake2](https://github.com/leeangel0428/Project-3-Group-2/assets/137225965/4a4420e1-5f24-4d09-81b4-35b0571e6b7c)
+
+I then updated my js file to rename my function correctly. The code should now work.
 
 # Resources and Citations (In Usage Order):
 ### Random GitHub Repos Used for Inspo:
@@ -46,3 +61,5 @@ StackOverflow user jo_va. (2019, February 24th). How to display both key and val
 
 ### Color Scales:
 Plotly. (n.d.). Colorscales in JavaScript. JavaScript Documentation. Retrieved from: https://plotly.com/javascript/colorscales/
+
+
