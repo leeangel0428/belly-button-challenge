@@ -138,7 +138,7 @@ function createMetadata(sample)
 };
 
 //6. Update all the plots when a new sample is selected
-function updatePlots(value)
+function optionChanged(value)
 { 
     console.log(value); 
     createMetadata(value);
