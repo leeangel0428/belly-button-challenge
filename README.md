@@ -2,7 +2,7 @@
 Hello viewer and welcome to my submission for Challenge 14 aka the belly-button-challenge. For context, at the time of writing this, I am enrolled in the Data Analytics and Visualizations bootcamp with the University of MN. We are assigned a challenge homework per module. This is Module 14's challenge on JavaScript. I am using a windows/PC laptop.
 
 # Overview
-Description: "In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogs the microbes that colonize human navels. The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare."
+Description: "In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity dataset to an external site., which catalogs the microbes that colonize human navels. The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare."
 
 There were 6 parts to the assignment:
 
